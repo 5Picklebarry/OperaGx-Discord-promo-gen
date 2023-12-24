@@ -15,7 +15,7 @@ This project offers a convenient solution for generating Discord Nitro promo cod
 
 Feel free to explore and utilize this tool to generate Discord Nitro promo codes effortlessly!
 
-This project was created by [5picklebarry](link-to-profile).
+This project was created by [5picklebarry](https://github.com/5Picklebarry).
 
 If you encounter any issues or have suggestions for improvements, please don't hesitate to contribute or reach out.
 
